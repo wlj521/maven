@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.wlj</groupId>
+  <artifactId>first</artifactId>
+  <version>1</version>
+  <name>Archetype - first</name>
+  <url>http://maven.apache.org</url>
+  <packaging>pom</packaging>
+  <modules>
+    <module>first-web</module>
+    <module>first-dal</module>
+    <module>first-service</module>
+    <module>first-biz</module>
+    <module>first-util</module>
+    <module>first-facade</module>
+    <module>first-integration</module>
+  </modules>
+</project>
